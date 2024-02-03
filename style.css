@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Protest+Revolution&family=Protest+Riot&family=Rubik+80s+Fade&family=Sixtyfour&family=Texturina:opsz@12..72&display=swap');
+
+
+*{
+    font-family: 'Texturina', serif;
+}
+h1{
+    font-family: 'Orbitron', sans-serif;
+}
+
+.input-wrapper input {
+    background-color: #eee;
+    border: none;
+    padding: 1rem;
+    font-size: 1rem;
+    width: 13em;
+    border-radius: 1rem;
+    color: lightcoral;
+    box-shadow: 0 0.4rem #dfd9d9;
+    cursor: pointer;
+  }
+  
+  .input-wrapper input:focus {
+    outline-color: lightcoral;
+  }
